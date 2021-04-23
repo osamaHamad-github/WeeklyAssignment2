@@ -1,0 +1,10 @@
+a {text-decoration: none;color:rgb(108, 119, 153)}
+button {border:none; padding:10px; border-radius:2px;font-size:20px}
+th:hover {background-color:rgb(255, 242, 234)}
+.menu-name {display:inline-block;margin-right:20px;color:rgb(108, 119, 153);font-family:arial;padding:10px}
+.menu-bar {background-color:#FFD6BA;padding:15px}
+.page {background-color:#FAF9F9;padding:75px}
+.page-title {color:#4D538A;font-size:70px}
+.page-text {color:rgb(2, 10, 77);font-size:20px;font-family:arial}
+#linus-image {height:50%;width:50%}
+#linus-quote {font-size:25px;}
