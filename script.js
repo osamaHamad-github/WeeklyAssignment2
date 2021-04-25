@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // function to go to linus' github
 function githubButton () {
   window.location.assign('https://github.com/torvalds')
