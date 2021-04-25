@@ -16,7 +16,8 @@ th:hover { background-color: rgb(255, 242, 234); }
   display: inline-block;
   margin-right: 20px;
   color: rgb(108, 119, 153);
-  font-family: arial; padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
 }
 
 .menu-bar {
@@ -37,39 +38,39 @@ th:hover { background-color: rgb(255, 242, 234); }
 .page-text {
   color: rgb(2, 10, 77);
   font-size: 20px;
-  font-family: georgia;
+  font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
   line-height: 1.5;
 }
 
 .about-button {
   color: rgb(2, 10, 77);
   background-color: rgb(255, 206, 173);
-  font-family: verdana;
+  font-family: Verdana, 'Segoe UI', Tahoma, Geneva, sans-serif;
 }
 
 .about-button:hover {
   color: rgb(255, 206, 173);
   background-color: rgb(2, 10, 77);
-  font-family: verdana;
+  font-family: Verdana, 'Segoe UI', Tahoma, Geneva, sans-serif;
 }
 
 .timeline-header {
   color: rgb(81, 93, 196);
   font-size: 25px;
-  font-family: courier;
+  font-family: Courier, 'Courier New', monospace
 }
 
 .invention-header {
   color: rgb(77, 83, 138);
   font-size: 30px;
-  font-family: georgia;
+  font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
   line-height: 1.5;
 }
 
 .source-text {
   color: rgb(2, 10, 77);
   font-size: 20px;
-  font-family: georgia;
+  font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
   line-height: 3;
 }
 
@@ -91,7 +92,7 @@ th:hover { background-color: rgb(255, 242, 234); }
 #achievement-text {
   color: rgb(2, 10, 77);
   font-size: 20px;
-  font-family: georgia;
+  font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
   line-height: 2;
 }
 
